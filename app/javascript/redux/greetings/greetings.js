@@ -17,7 +17,7 @@ const initState = {
   export const fetchGreeting = () => async dispatch => {
     await fetch(url)
       .then(res => res.json())
-      .then(data =>  {      
+      .then(data =>  {     
         dispatch({ type: FETCH_GREETING, payload: 
           {
             message: data.message
