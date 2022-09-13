@@ -1,24 +1,49 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Budget App
 
-Things you may want to cover:
+> This is is a project to learn how add react-redux to a rails app.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## Built With
 
-* Database creation
+- Rails, Ruby, Reac, Redux.
 
-* Database initialization
+## Setup Project
+- Clone repo by using (https://github.com/Santiago220991/hello-rails-react.git)
+- cd hello-rails-react
+- Install dependencies with `bundle install`
 
-* How to run the test suite
+## Usage
+- Run  `rake db:create`
+- Run `rails server`
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Author
 
-* ...
+👤 **Santiago Cárdenas**
+
+- GitHub: [@Santiago Cárdenas](https://github.com/Santiago220991)
+- LinkedIn: [Santiago Cárdenas](https://www.linkedin.com/in/alexandersantiagocardenas/)
+- Twitter: [@SanCardenas10](https://twitter.com/SanCardenas10)
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Santiago220991/hello-rails-react/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Original design idea by Microverse
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
